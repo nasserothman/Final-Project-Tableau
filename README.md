@@ -18,7 +18,7 @@ I chose option 2. went with the Airbnb Data Set. We want to see where are the be
 First visualization: Map of NYC and showing the average prices based on Zipcodes. Chose this because we want to see the prices per zipcode and look to find the cheapest and most expensive places to rent an airbnb unit. The 2nd visualization shows the top rated neighbourhoods in NYC. We saw the Brooklyn was the most favorable neighbourhood followed by Manhattan. The third visualization shows the Room typers per neighbourhood. Although Brooklyn was rated the number one neighbourhood, Manhatten had the highest amount of Airbnb units. The fourth visualization shows the average prices from the years 2008 - 2015. Prices dropped in 2015 compared to 2008 mainly due to the number of units comming into the market. The fifth Visualization shows the average number of reviews in each neighbourhood with different room types. We see that Private rooms are the most rated in all neighbourhoods which suggests this would be the highest frequency of bookings in Airbnb. The sixth visualization shows the top 10 airbnb hosts in NYC of all the time (2008-2015) and the number one host was in Manhatten with an average price of $50. This shows that no matter what your prices are, the high review rating is based on the number of reviews you receive as an Airbnb Host which sugegst how experienced the Host is. 
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Although this was a straightforward dataset, we didn't need to clean much data. Tableau made the analysis straightforward. The story of this analysis came to fruitation when we analyzed the prices and reviews per neighbourhood.
 
 ## Future Goals
-(what would you do if you had more time?)
+I would like to compared the results in more cities to see if there are any trends.
